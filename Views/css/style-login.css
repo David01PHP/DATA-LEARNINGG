@@ -1,0 +1,170 @@
+* {
+	padding: 0;
+	margin: 0;
+	
+}
+@media (max-width:768px){
+}
+
+body{
+	background-image: url(../img/beach-418742_1920.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff
+}
+
+/* form {
+	padding: 50px 20px;
+	background-color: #ededed;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px;
+
+	
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+    color: white;
+}
+
+h1 {
+	text-align: center;
+	padding: 12px;
+	color: #444
+}
+
+input {
+	width: calc(100% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px
+}
+
+input[type='submit']{
+	background-color: #48e;
+	color: #fff;
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+    border-radius: 5px;
+	background: #222A3F;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700!important;
+    color: white;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+    transition: 0.5s ease-in;
+
+	
+}
+
+
+
+
+.form-control {
+    background: rgba(12, 0, 5, 0.267);
+    border-style: none;
+    transition: 0.5s ease-in;
+    outline: none;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    background: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.form-control::placeholder {
+    color: white;
+}
+
+
+.olvide {
+    color: rgb(0, 0, 0);
+    text-decoration-style: none;
+    text-decoration-line: none;
+}
+
+.olvide:hover {
+    color: white;
+    text-decoration-style: none;
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+
+.olvide1 {
+    color: rgb(8, 0, 0);
+    text-decoration-style: none;
+    text-decoration-line: none;
+    font-size: 20px;
+    font-weight: 700!important;
+    
+    transition: 0.5s ease-in;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(16, 183, 224);
+    background-color: rgb(32, 105, 214);
+	width: calc(80% - 20px);
+    height: 19px;
+    
+    /* border: 2px solid white; */
+    /* 
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+	background: #222A3F;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700!important;
+    ; */ 
+/* }
+
+.olvide1:hover {
+    color: rgb(255, 255, 255);
+    text-decoration-style: none;
+    text-decoration-line: none;
+    cursor: pointer;
+} */ */ /*
+
+/*
+SIN ESTRUCTURAR
+*/
+
+main-section{
+    margin:0 auto;
+    margin-top:25%;
+    padding: 0;
+}
+
+.user-img{
+    margin-top: -50px;
+    margin-bottom: 35px;
+
+}
+
+.user-img img{
+    width: 100xp;
+    height: 100px;
+    box-shadow: 0px 0px 3px #848484;
+    border-radius: 50%;
+}
+
